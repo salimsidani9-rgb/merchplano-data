@@ -1,7 +1,5 @@
 {
   "version": 1,
-  "files": {
-    "planogram_data.json": "https://TONUSER.github.io/merchplano-data/planogram_data.json",
-    "hidden_part_index.json": "https://TONUSER.github.io/merchplano-data/hidden_part_index.json"
-  }
+  "type": "global_zip_backup",
+  "zipUrl": "https://salimsidani9-rgb.github.io/donnees-merchplano/BACKUP_GLOBAL_SELECTION%20(1).zip"
 }
